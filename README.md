@@ -29,7 +29,7 @@ A powerful web application to analyze and identify wallets that have traded mult
 
 ## 📸 Screenshot
 
-![Solana Token Trader Analyzer Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Add+Your+Screenshot+Here)
+<img width="1034" height="627" alt="Screenshot 2026-01-22 alle 10 52 00" src="https://github.com/user-attachments/assets/69c30101-f764-44f1-8a5e-bee89f7eadaa" />
 
 ## 🚀 Quick Start
 
