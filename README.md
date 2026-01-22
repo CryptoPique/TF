@@ -1,4 +1,5 @@
 # 🔍 Solana Token Trader Analyzer
+PS. before starting you must understand that a custom RPC is needed in order to make this works.
 
 > Find common traders across multiple Solana tokens with ease
 
